@@ -14,12 +14,12 @@ The repository contains the following files:
 - README.md (this readme file)
 - Extended_biogeochemistry_oxidoreductase_table.csv
 
-The manuscript has been deposited in BioArXiv and it is currently under review.
+The manuscript has been deposited in EarthArXiv and it is currently under review.
 
 
 Please cite as:
 
-Hay Mele B, Monticelli M, Leone S, Bastoni D, Barosa B, Cascone M, Migliaccio F, Montemagno F, Ricciardelli A, Tonietti L, Rotundi A, Cordone A, Giovannelli D. 2023. Oxidoreductases and metal cofactors in the functioning of Earth. BioArXiv, submitted
+Hay Mele B, Monticelli M, Leone S, Bastoni D, Barosa B, Cascone M, Migliaccio F, Montemagno F, Ricciardelli A, Tonietti L, Rotundi A, Cordone A, Giovannelli D. 2023. Oxidoreductases and metal cofactors in the functioning of Earth. EarthArXiv, submitted
 
 
 
