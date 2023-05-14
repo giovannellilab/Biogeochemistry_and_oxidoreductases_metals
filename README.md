@@ -5,7 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http:s//www.donatogiovannelli.com)
-[![DOI](https://zenodo.org/badge/xxxxxxx.svg)](https://zenodo.org/badge/latestdoi/xxxxxxx)
+[![DOI](https://zenodo.org/badge/640591422.svg)](https://zenodo.org/badge/latestdoi/640591422)
 
 Dataset relative to the Hay Mele mini review on "Oxidoreductases and metal cofactors in the functioning of Earth" describing the structures and cofactors associated with the key oxidoreductases controlling biogeochemistry on Earth.
 
